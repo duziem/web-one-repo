@@ -1,6 +1,6 @@
-body {
+/* body {
   background-color: rgb(132, 102, 62);
-}
+} */
 
 span {
   display: flex;
@@ -14,10 +14,10 @@ td {
   color: green;
 }
 
-h2 {
+/* h2 {
   text-align: center;
   color: black;
-}
+} */
 
 .container1 {
   margin: auto;
@@ -27,6 +27,7 @@ h2 {
   width: 500px;
   overflow: auto;
   padding: 3rem 2rem;
+  /* background-color: rgb(132, 102, 62); */
 }
 
 #form {
